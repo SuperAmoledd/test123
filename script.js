@@ -2,8 +2,8 @@ const stories = {
     story1: [
         "Ngày xửa ngày xưa, có một cô gái tên là Lọ Lem...",
         "Một hôm, Lọ Lem được mời đến dự tiệc ở hoàng cung...",
-        "Tại đó, cô đã gặp hoàng tử và cả hai đã phải lòng nhau...",
-        "Cuối cùng, họ sống hạnh phúc bên nhau mãi mãi."
+        "Tại đó, cô đã gặp hoàng tử và cả hai đã...",
+        "Nhảy hiphop và đục mỏ thằng lồn đang đọc truyện này!!!!!!!!!"
     ],
     story2: [
         "Ngày xửa ngày xưa, có một cô bé tên là Lửa...",
