@@ -12,6 +12,18 @@ const stories = {
         "Một ngày nọ, cô đã khám phá ra sức mạnh của mình...",
         "Cuối cùng, cô trở thành một anh hùng trong lòng mọi người."
     ],
+    story3: [
+        "Ngày xửa ngày xưa, có một cô bé tên là Lửa...",
+        "Cô đã sống trong một ngôi làng nhỏ...",
+        "Một ngày nọ, cô đã khám phá ra sức mạnh của mình...",
+        "Cuối cùng, cô trở thành một anh hùng trong lòng mọi người."
+    ],
+    story4: [
+        "Ngày xửa ngày xưa, có một cô bé tên là Lửa...",
+        "Cô đã sống trong một ngôi làng nhỏ...",
+        "Một ngày nọ, cô đã khám phá ra sức mạnh của mình...",
+        "Cuối cùng, cô trở thành một anh hùng trong lòng mọi người."
+    ],
     // Thêm các truyện khác tương tự ở đây
 };
 
@@ -23,6 +35,8 @@ const nextBtn = document.getElementById('nextBtn');
 
 document.getElementById('story1').addEventListener('click', () => loadStory('story1'));
 document.getElementById('story2').addEventListener('click', () => loadStory('story2'));
+document.getElementById('story3').addEventListener('click', () => loadStory('story3'));
+document.getElementById('story4').addEventListener('click', () => loadStory('story4'));
 // Thêm sự kiện cho các truyện khác tương tự ở đây
 
 function loadStory(storyKey) {
