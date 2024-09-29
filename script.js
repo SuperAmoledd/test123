@@ -1,8 +1,8 @@
 const stories = [
     "Ngày xửa ngày xưa, có một cô gái tên là Lọ Lem...",
     "Một hôm, Lọ Lem được mời đến dự tiệc ở hoàng cung...",
-    "Tại đó, cô đã gặp hoàng tử và cả hai đã phải lòng nhau...",
-    "Cuối cùng, họ sống hạnh phúc bên nhau mãi mãi."
+    "Tại đó, cô đã gặp hoàng tử và cả hai đã...",
+    "Nhảy hiphop tại chỗ và đục mỏ thằng đang đọc bài lồn này!!!!!!!!!!"
 ];
 
 let currentStoryIndex = 0;
