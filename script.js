@@ -3,25 +3,27 @@ const stories = {
         "Ngày xửa ngày xưa, có một cô gái tên là Lọ Lem...",
         "Một hôm, Lọ Lem được mời đến dự tiệc ở hoàng cung...",
         "Tại đó, cô đã gặp hoàng tử và cả hai đã...",
-        "Nhảy hiphop và đục mỏ thằng lồn đang đọc truyện này!!!!!!!!!"
+        "Nhảy HIPHOP và đục mỏ thằng lồn đang đọc truyện này!!!!!!!!!",
+        "----------------------------------------------",
+        "                Đang ra chap mới"
+
     ],
     story2: [
-        "Ngày xửa ngày xưa, có một cô bé tên là Lửa...",
-        "Cô đã sống trong một ngôi làng nhỏ...",
-        "Một ngày nọ, cô đã khám phá ra sức mạnh của mình...",
-        "Cuối cùng, cô trở thành một anh hùng trong lòng mọi người."
+        "Một hôm nọ, trên đường đi hiphop của khầy...",
+        "Bắt gặp một con khỉ đang tích dịch dưới hang đá...",
+        "----------------------------------------------",
+        "                Đang ra chap mới"
     ],
     story3: [
         "Ngày xửa ngày xưa, có một cô bé tên là Lửa...",
         "Cô đã sống trong một ngôi làng nhỏ...",
         "Một ngày nọ, cô đã khám phá ra sức mạnh của mình...",
-        "Cuối cùng, cô trở thành một anh hùng trong lòng mọi người."
+        "Cô đã sử dụng sức mạnh đó để đục cu mấy thằng ấu dâm...",
+        "----------------------------------------------",
+        "                Đang ra chap mới"
     ],
     story4: [
-        "Ngày xửa ngày xưa, có một cô bé tên là Lửa...",
-        "Cô đã sống trong một ngôi làng nhỏ...",
-        "Một ngày nọ, cô đã khám phá ra sức mạnh của mình...",
-        "Cuối cùng, cô trở thành một anh hùng trong lòng mọi người."
+        "           1/2025 ra truyện!!!"
     ],
     // Thêm các truyện khác tương tự ở đây
 };
